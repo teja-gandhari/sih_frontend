@@ -1,0 +1,4 @@
+- [x] Create `android/app/proguard-rules.pro`
+- [x] Update `android/app/build.gradle.kts` with Proguard configuration
+- [x] Upgrade plugins in `pubspec.yaml`
+- [x] Verify dependency resolution
